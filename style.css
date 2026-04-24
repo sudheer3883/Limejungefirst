@@ -1,6 +1,6 @@
 body {
     background-color: green;
-    background-image: url("../images/head.jpg");
+    background-image: url("head.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -96,7 +96,7 @@ input{
 margin-top:10px;
 	background-color:black;
 
-	background-image: url("../images/first.jpg");
+	background-image: url("first.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -140,7 +140,7 @@ border-radius:0px 0px 30px 0px;
 		height:300px;
 		width:96%;
 		background-color:red;
-		background-image:url("../images/second.jpg");
+		background-image:url("second.jpg");
 		background-position:center;
 		background-repeat:no-repeat;
 		background-size:cover;
