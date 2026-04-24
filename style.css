@@ -1,0 +1,302 @@
+body {
+    background-color: green;
+    background-image: url("../images/head.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+	 
+}
+*{
+  box-sizing:border-box;
+}
+
+
+#box{
+	height:1430px;
+	width:1100px;
+	background-color:gray;
+	margin:auto;
+	border-radius:30px 30px 30px 30px;
+	  justify-content:space-evenly;
+}
+
+h2{
+	color:white;
+	font-weight:bold;
+	font-size:40px;
+	text-align:center;
+}
+p{
+	color:white;
+	font-size:15px;
+	margin-top:-36px;
+	text-align:center;
+}
+
+#top{
+	height:70px;
+	width:100%;
+
+}
+
+#nav{
+	height:70px;
+	width:75%;
+	background-color:white;
+	border-radius:30px 0px 0px 0px;
+		float:left;
+}
+
+nav{
+	height:50px;
+	width:100%;
+	padding-top:10px;
+}
+
+nav ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+
+nav ul li{
+	display:inline-block;
+	padding:20px;
+	font-size:18px;
+}
+
+
+a{
+	text-decoration:none;
+	color:black;
+}
+
+#search{
+	height:70px;
+	width:25%;
+	background-color:white;
+	border-radius:0px 30px 0px 0px;
+	text-align:center;
+	float:left;
+}
+input{
+	height:40px;
+	width:80%;
+	font-size:16px;
+	margin-top:15px;
+	border-radius:10px;
+	border:1px solid gray;
+	padding-left:10px;
+}
+
+#one{
+	height:300px;
+	width:100%;
+margin-top:10px;
+	background-color:black;
+
+	background-image: url("../images/first.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#content{
+	height:820px;
+	width:100%;
+	background-color:none;
+	margin-top:10px;
+}
+#left{
+	height:100%;
+	width:70%;
+	background-color:white;
+	float:left;
+	border-radius:0px 0px 0px 30px;
+}
+#right{
+	height:100%;
+	width:30%;
+background-color: #dfe6d6;
+float:right;
+border-radius:0px 0px 30px 0px;
+}
+
+    #temp{
+	color:black;
+		margin-left:20px;
+		font-weight:bold;
+		font-size:20px;
+		margin-right:10px;
+	}
+	#date{
+		color:black;
+		font-weight:20px;
+		margin-left:-340px;
+		margin-top:-10px;
+			margin-right:10px;
+	}
+	#second{
+		height:300px;
+		width:96%;
+		background-color:red;
+		background-image:url("../images/second.jpg");
+		background-position:center;
+		background-repeat:no-repeat;
+		background-size:cover;
+		color:black;
+		margin-left:20px;
+			
+		
+	}
+	#this{
+	margin-top:20px;	
+	font-size:15px;
+	color:black;
+	margin-left:20px;
+	margin-top:10px;
+	text-align:left;
+		margin-right:10px;
+	}
+	#fusce{
+	margin-top:20px;	
+	font-size:15px;
+	color:black;
+	margin-left:20px;
+	margin-top:10px;
+	text-align:left;
+	
+		margin-right:10px;
+	}
+	#read{
+		margin-top:10px;	
+	font-size:15px;
+	color:green;
+	margin-left:20px;
+	text-align:left;
+	text-decoration:underline;
+	}
+	#laptop{
+		margin-top:
+		10px;	
+	font-size:25px;
+	color:black;
+	margin-left:20px;
+	text-align:left;
+		margin-right:10px;
+	}
+	#owner{
+		margin-top:-10px;	
+	font-size:16px;
+	color:black;
+	margin-left:20px;
+	text-align:left;
+		margin-right:10px;
+	}
+	#free{
+		margin-top:20px;	
+	font-size:13px;
+	color:black;
+	margin-left:20px;
+	margin-top:10px;
+	text-align:left;
+		margin-right:10px;
+	}
+	#firsty{
+			margin-top:10px;	
+	font-size:15px;
+	color:green;
+	margin-left:20px;
+	text-align:left;
+	text-decoration:underline;
+		margin-right:10px;
+	}
+	#sudh{
+		margin-top:10px;	
+	font-size:15px;
+	color:black;
+	margin-left:20px;
+	text-align:left;
+		margin-right:10px;
+	}
+	#ones{
+		margin-left:20px;
+		color:black;
+		
+	}
+	ul{
+		margin-left:-16px;
+			list-style:none;
+	}
+	ul li{
+		padding:6px;
+	}
+	#nav3{
+		padding:6px;
+	}
+	table{
+		width:100%;
+	padding-right:20px;
+		color:black;
+		padding-top:10px;
+	}
+	.left{
+		color:black;
+		padding-left:20px;
+		text-align:left;
+		
+	}
+	.right{
+		text-align:right;
+		margin-right:-14px;
+	}
+	.page{
+		display:inline-block;
+		padding:5px 12px;
+		background-color:lightgreen;
+		margin-left:5px;
+		border-left:5px;
+	}
+	.active{
+		background-color:darkgreen;
+		color:white;
+	}
+.same{
+	color:green;
+	text-decoration:underline;
+	
+	}
+	#last{
+		background-color:white;
+		height:205px;
+		width:100%;
+	    padding-top:15px;
+	   display:flex;
+	    margin-top:10px;
+	   border-radius:15px 15px 15px 15px;
+	}
+	#lasts{
+		margin-left:20px;
+		height:150px;
+		width:260px;
+		background-color:white;
+      border-radius:0px 0px 0px 0px;
+	
+	
+	}
+	#lastt{
+		height:150px;
+		width:280px;
+		background-color:white;
+      border-radius:0px 0px 0px 0px;
+	  margin-left:60px;
+	
+	}
+	#lastu{
+		height:170px;
+		width:280px;
+		background-color:white;
+      border-radius:0px 0px 0px 0px;
+	  margin-left:60px;
+	  
+	}
